@@ -3,4 +3,4 @@ This repo hosts an AI-generated simple demo version with very limited functional
 
 Refer to https://www.blue-steens.com/community/ for background on this project.
 
-Iy you'd like to submit any suggestions for the registry, complete the [short questionnaire](https://forms.gle/FzpyBu7cZN8Pd3rKA).
+If you'd like to submit any suggestions for the registry, complete the [short questionnaire](https://forms.gle/FzpyBu7cZN8Pd3rKA).
